@@ -25,7 +25,7 @@ $(document).ready(function(){
         }
     });
     
-// search if else 
+// search if else //
   });
       $("#searchTerm").keypress(function(e){
       if(e.which==13){
