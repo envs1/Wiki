@@ -25,7 +25,7 @@ $(document).ready(function(){
         }
     });
     
-// search if else statement//
+
       $("#searchTerm").keypress(function(e){
       if(e.which==13){
         $("#search").click();
